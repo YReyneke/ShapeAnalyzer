@@ -3,7 +3,8 @@ A small program that demonstrates some basic trig within C++ and the CLR
 
 This was the first time I look at the CLR and managed objects with C++, so bear with me if I have made a couple of mistakes. Feel free to add an issue to the tracker with any feedback you want me to read over.
 
-Download the installer '[here](Installer)'
+Download the installer [here](Installer)
+Find all the trig and calculations [here](SourceCode/Shapes.cpp)
 
 Use the mouse to draw in the dark region, and use the buttons and options on the left to chose what you want to do.
 
